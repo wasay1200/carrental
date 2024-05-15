@@ -1,0 +1,33 @@
+1.Mercedes-Benz,S-Class,2020,Automatic,30000,yes,yes,yes,150
+2.BMW,I7,2019,Automatic,35000,yes,yes,yes,140
+3.Audi,A8,2018,Automatic,40000,yes,yes,yes,135
+4.Lexus,LS,2017,Automatic,45000,yes,yes,yes,130
+5.Cadillac,CT6,2016,Automatic,50000,yes,yes,yes,125
+6.Infiniti,Q70,2015,Automatic,55000,yes,yes,yes,120
+7.Mercedes-Benz,E-Class,2014,Automatic,60000,yes,yes,yes,115
+8.BMW,5 Series,2013,Automatic,65000,yes,yes,yes,110
+9.Audi,A6,2012,Automatic,70000,yes,yes,yes,105
+10.Lexus,GS,2011,Automatic,75000,yes,yes,yes,100
+11.Cadillac,CTS,2010,Automatic,80000,yes,yes,yes,95
+12.Infiniti,Q50,2009,Automatic,85000,yes,yes,yes,90
+13.Mercedes-Benz,C-Class,2008,Automatic,90000,yes,yes,yes,85
+14.BMW,3 Series,2007,Automatic,95000,yes,yes,yes,80
+15.Audi,A4,2006,Automatic,100000,yes,yes,yes,75
+16.Lexus,IS,2005,Automatic,105000,yes,yes,yes,70
+17.Cadillac,ATS,2004,Automatic,110000,yes,yes,yes,65
+18.Infiniti,G35,2003,Automatic,115000,yes,yes,yes,60
+19.Mercedes-Benz,CLK-Class,2002,Automatic,120000,yes,yes,yes,55
+20.BMW,Z4,2001,Automatic,125000,yes,yes,yes,50
+21.Audi,TT,2000,Automatic,130000,yes,yes,yes,45
+22.Lexus,SC,1999,Automatic,135000,yes,yes,yes,40
+23.Cadillac,Seville,1998,Automatic,140000,yes,yes,yes,35
+24.Infiniti,QX4,1997,Automatic,145000,yes,yes,yes,30
+25.Mercedes-Benz,SLK-Class,1996,Automatic,150000,yes,yes,yes,25
+26.BMW,8 Series,1995,Automatic,155000,yes,yes,yes,20
+27.Audi,A8,1994,Automatic,160000,yes,yes,yes,15
+28.Lexus,LS,1993,Automatic,165000,yes,yes,yes,10
+29.Cadillac,DeVille,1992,Automatic,170000,yes,yes,yes,5
+30.Infiniti,Q45,1991,Automatic,175000,yes,yes,yes,5
+
+
+

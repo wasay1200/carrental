@@ -1,0 +1,7 @@
+Luxury: 2.BMW I7 2019 rented from 12/02/2004 to 12/03/2005
+Employee: 2.Honda Civic 2018 rented from 12/02/2020 to 12/05/2027
+Luxury: 9.Audi A6 2012 rented from 12/09/2024 to 12/10/2026
+Employee: 4.Chevrolet Cruze 2016 rented from 12/09/2024 to 12/10/2026
+Luxury: 21.Audi TT 2000 rented from 12/09/2024 to 01/10/2029
+Employee: 6.Hyundai Elantra 2014 rented from 12/12/2024 to 12/05/2030
+Luxury: 17.Cadillac ATS 2004 rented from 27/12/2025 to 27/12/2030
