@@ -395,7 +395,7 @@ public:
             cost = 25;
         }
         else {
-            cost = -25;
+            cost = 30;
         }
         return cost;
     }
